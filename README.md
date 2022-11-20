@@ -12,9 +12,7 @@
 > Download this repo, install apk on your phone(It might light as a virus, but you can scan it threw virustotal)
 Launch setup.bat on your pc
 Open MultiplatformClipboard.py using python
-
-
-[mobile apk] (https://github.com/zxccr1sx/MultiplatformClipboard/raw/main/app-release.apk/)
+mobile apk - https://github.com/zxccr1sx/MultiplatformClipboard/raw/main/app-release.apk/
 
 
 
