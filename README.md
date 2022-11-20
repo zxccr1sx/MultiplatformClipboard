@@ -25,5 +25,12 @@ mobile apk - https://github.com/zxccr1sx/MultiplatformClipboard/raw/main/app-rel
 Launch mobile apk, enter to the prompt ur text
 press enter,
 Press ctrl+C in your pc, or paste the text, thats all!
+
+# Future Updates!
+> Pc to phone clipboard📱🔃💻
+
+
+
+
 # Support author: bankCard-5375411590309725
 ## Contact author: telegram-@uawannacry
