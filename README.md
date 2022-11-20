@@ -23,7 +23,7 @@ mobile apk - https://github.com/zxccr1sx/MultiplatformClipboard/raw/main/app-rel
 
 > After launching MultiplatformClipboard.py you will have opened webpage (!DO NOT CLOSE IT)
 Launch mobile apk, enter to the prompt ur text
-press enter
+press enter,
 Press ctrl+C in your pc, or paste the text, thats all!
 # Support author: bankCard-5375411590309725
 ## Contact author: telegram-@uawannacry
