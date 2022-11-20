@@ -5,6 +5,8 @@
 
 > Have installed python 3.7(or else)
 
+> Both devices must be connected to the same network
+
 
 ### Installation
 
